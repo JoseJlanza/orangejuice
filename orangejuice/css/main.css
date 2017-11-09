@@ -1,0 +1,96 @@
+nav {
+/*	display: inline-block;
+*/	background-color: orange;
+	height: 150px;
+
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: orange;
+	display: inline-block;		
+}
+
+li{
+	float: left;
+}
+
+li a {
+	display: inline-block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+	
+div {
+	display: inline-block;
+
+}
+
+
+section  {
+	background-color: white;
+	/* text-align: right;*/
+	padding-top: 125px;
+
+}
+
+
+p {
+	font-family: cursive;
+	color: orange;
+
+}
+button {
+	border: 5px solid transparent;
+	cursor: pointer;
+	display: inline-block;
+	font-size: 10px;
+	margin: 10px;
+	padding: 10px 35px;
+	text-decoration: none;
+	text-align: center;
+	transition: 0.3s all ease-in-out;
+}
+
+#btn1 {
+	 background-color: orange;
+    border: 5px solid orange;
+    border-radius: 2px;
+    color: white;
+}
+
+#btn2 {
+	background-color: aqua;
+	border: 5px solid aqua;
+	border-radius: 2px;
+	color: white;
+}
+
+footer {
+	background-color: aqua;
+	border: 45px solid aqua;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
